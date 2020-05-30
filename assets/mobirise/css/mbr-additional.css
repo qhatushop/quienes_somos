@@ -1579,7 +1579,7 @@ section.lazy-placeholder:after {
 }
 .cid-s0qWogBoGg .table-wrap {
   margin: 0 1rem 3rem 1rem;
-  border: 1px solid #efefef;
+  border: 1px solid #1ba1e2;
   border-radius: 3%;
   padding: 3rem;
   transition: all 0.3s ease-in-out;
@@ -1632,7 +1632,7 @@ section.lazy-placeholder:after {
 }
 .cid-s0qWogBoGg hr {
   display: none;
-  background: #efefef;
+  background: #1ba1e2;
 }
 .cid-s0qWogBoGg hr {
   display: block;
@@ -1667,6 +1667,71 @@ section.lazy-placeholder:after {
 .cid-s0qWogBoGg .table-pricing,
 .cid-s0qWogBoGg .table-icon {
   color: #096693;
+}
+.cid-s0rfncKGay {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000000;
+}
+.cid-s0rfncKGay .social-media {
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+  padding-right: 4rem;
+}
+.cid-s0rfncKGay .social-media ul {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 8px;
+}
+.cid-s0rfncKGay .social-media ul li {
+  padding: 4px;
+  display: inline-block;
+}
+.cid-s0rfncKGay .logo-section {
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: flex-start;
+  justify-content: flex-start;
+  padding-left: 4rem;
+}
+.cid-s0rfncKGay .icon-transition span {
+  color: #ffffff;
+  display: block;
+  padding: 0.1rem 0.9rem;
+  height: 4em;
+  line-height: 4em;
+  border-radius: 50%;
+  background-color: #232323;
+  width: 4em;
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  font-size: 13px;
+}
+.cid-s0rfncKGay .icon-transition span:hover {
+  background-color: #fe525b;
+}
+.cid-s0rfncKGay .mbr-text {
+  color: #cccccc;
+}
+@media (max-width: 991px) {
+  .cid-s0rfncKGay .social-media {
+    -webkit-justify-content: center;
+    justify-content: center;
+    padding-right: 0rem;
+  }
+  .cid-s0rfncKGay .logo-section {
+    -webkit-justify-content: center;
+    justify-content: center;
+    padding-left: 0rem;
+    margin-bottom: 1.5rem;
+  }
+  .cid-s0rfncKGay .mbr-text {
+    margin-bottom: 1.5rem;
+  }
 }
 .cid-s0q4isXINH .dropdown-item:before {
   font-family: MobiriseIcons !important;
@@ -2133,7 +2198,7 @@ section.lazy-placeholder:after {
 .cid-s0rdts7D5N {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #465052;
+  background-color: #000000;
 }
 .cid-s0rdts7D5N .social-media {
   display: flex;
